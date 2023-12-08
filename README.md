@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @johnny02345
+- 👀 I’m interested in software dev
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me henrycuerda2213@gmail.com
